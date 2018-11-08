@@ -1,0 +1,93 @@
+.nn{
+    width: 50px;
+    height: 50px;
+}
+.h11{
+    color: #06007a;
+    background-color: rgba(171, 0, 238, 0.09);
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+    border-color: #343a40;
+    border-width: 2px;
+    border-style: solid;
+    padding-bottom: 5px;
+}
+.zzz{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    height: 50px;
+}
+.yel{
+    border-style: solid;
+    border-width: 0.5px;
+    border-color: transparent;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.yell{
+    border-style: solid;
+    border-width: 0.5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.nasi{
+    background-color: #fffdf1;
+    padding: 5%;
+    border-color: transparent;
+    border-width: 0.2px;
+    border-style: solid;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    }
+.zz{
+    margin-left: 15%;
+    margin-right: 15%;
+    background-color: rgba(6, 0, 205, 0.12);
+
+}
+.h22{
+    font-size: 25px;
+    font-family: "Goudy Old Style";
+    color: #d90500;
+    text-align: center;
+    background-color: rgb(239, 238, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-color: transparent;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.bb{
+    margin-bottom: 0px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.nnn{
+    padding-left: 5%;
+
+}
+.mimi{
+    text-align: center;
+    font-weight: bolder;
+    font-family: "Script MT Bold";
+    color: #06007a;
+    background-color: rgb(239, 238, 255);
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.reg{
+    padding-left: 12%;
+    padding-right: 12%;
+}
+.logo{
+    font-family: "Matura MT Script Capitals";
+    font-size: 30px;
+}
